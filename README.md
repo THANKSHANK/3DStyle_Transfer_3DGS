@@ -14,16 +14,13 @@
 
 ### Qualitative Comparison
 **1. Smooth Geometry (Hotdog Scene)** Our method eliminates high-frequency noise and creates coherent brushstrokes.
-| Ground Truth | Baseline (StyleSplat) | **Ours (Phase 2)** |
-|:---:|:---:|:---:|
-| <img src="assets/comparison_hotdog.png" width="250" alt="GT Hotdog"> | <img src="assets/baseline_hotdog.png" width="250" alt="Baseline Hotdog"> | <img src="assets/ours_hotdog.png" width="250" alt="Ours Hotdog"> |
-| *Original Geometry* | *Grainy, incoherent noise* | *Smooth, structural strokes* |
+
+| <img src="assets/comparison_hotdog.png" width="250" alt="GT Hotdog"> 
+
 
 **2. Complex Geometry (Chair Scene)** Our method maintains style consistency even on thin structures and complex occlusions.
-| Baseline (StyleSplat) | **Ours (Phase 2)** |
-|:---:|:---:|
-| <img src="assets/baseline_chair.png" width="350" alt="Baseline Chair"> | <img src="assets/ours_chair.png" width="350" alt="Ours Chair"> |
-| *Scattered "salt-and-pepper" noise* | *Coherent pattern on cushion* |
+
+| <img src="assets/baseline_chair.png" width="350" alt="Baseline Chair"> |
 
 ---
 
