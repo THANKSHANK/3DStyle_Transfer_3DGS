@@ -15,12 +15,12 @@
 ### Qualitative Comparison
 **1. Smooth Geometry (Hotdog Scene)** Our method eliminates high-frequency noise and creates coherent brushstrokes.
 
-| <img src="assets/comparison_hotdog.png" width="250" alt="GT Hotdog"> 
+| <img src="assets/comparison_hotdog.png" width="1000" alt="GT Hotdog"> 
 
 
 **2. Complex Geometry (Chair Scene)** Our method maintains style consistency even on thin structures and complex occlusions.
 
-| <img src="assets/baseline_chair.png" width="350" alt="Baseline Chair"> |
+| <img src="assets/comparison_chair.png" width="1000" alt="Baseline Chair"> |
 
 ---
 
